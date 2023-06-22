@@ -1,0 +1,15 @@
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.csproj.AssemblyReference.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\bin\Debug\net7.0\tp7mclase.exe
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\bin\Debug\net7.0\tp7mclase.deps.json
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\bin\Debug\net7.0\tp7mclase.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\bin\Debug\net7.0\tp7mclase.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\bin\Debug\net7.0\tp7mclase.pdb
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\refint\tp7mclase.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.pdb
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\tp7mclase.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tp7mclase\obj\Debug\net7.0\ref\tp7mclase.dll

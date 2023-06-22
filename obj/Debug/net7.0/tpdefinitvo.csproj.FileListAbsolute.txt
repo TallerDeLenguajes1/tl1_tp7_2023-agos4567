@@ -1,0 +1,30 @@
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.csproj.AssemblyReference.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\bin\Debug\net7.0\tpdefinitvo.exe
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\bin\Debug\net7.0\tpdefinitvo.deps.json
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\bin\Debug\net7.0\tpdefinitvo.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\bin\Debug\net7.0\tpdefinitvo.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\bin\Debug\net7.0\tpdefinitvo.pdb
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\refint\tpdefinitvo.dll
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.pdb
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\tpdefinitvo.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\taller1\SegundoParcialTp\tpDef\obj\Debug\net7.0\ref\tpdefinitvo.dll
+C:\Repogit\tp7\bin\Debug\net7.0\tpdefinitvo.exe
+C:\Repogit\tp7\bin\Debug\net7.0\tpdefinitvo.deps.json
+C:\Repogit\tp7\bin\Debug\net7.0\tpdefinitvo.runtimeconfig.json
+C:\Repogit\tp7\bin\Debug\net7.0\tpdefinitvo.dll
+C:\Repogit\tp7\bin\Debug\net7.0\tpdefinitvo.pdb
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.csproj.AssemblyReference.cache
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.AssemblyInfoInputs.cache
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.AssemblyInfo.cs
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.csproj.CoreCompileInputs.cache
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.dll
+C:\Repogit\tp7\obj\Debug\net7.0\refint\tpdefinitvo.dll
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.pdb
+C:\Repogit\tp7\obj\Debug\net7.0\tpdefinitvo.genruntimeconfig.cache
+C:\Repogit\tp7\obj\Debug\net7.0\ref\tpdefinitvo.dll

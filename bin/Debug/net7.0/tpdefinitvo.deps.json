@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tpdefinitvo/1.0.0": {
+        "runtime": {
+          "tpdefinitvo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpdefinitvo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
